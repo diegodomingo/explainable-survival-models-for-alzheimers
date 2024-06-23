@@ -31,7 +31,7 @@ Se utiliza el paquete [scikit-survival](https://github.com/sebp/scikit-survival)
 #### Uso
 El programa `train.py` que se ejecuta siguiendo el siguiente formato:
 
-`py -3.8 train.py -v <viscode> -k <n_folds>`
+`py -3.11 train.py -v <viscode> -k <n_folds>`
 
 donde ambos parámetros son los mismos que en el programa de imputación.
 
